@@ -1,2 +1,2 @@
-# CustoMSExoPlayer
-Customized ExoPlayer to stream any kind of rtsp url
+# CustoMSRtspPlayer
+Customized Player to stream any kind of rtsp url
