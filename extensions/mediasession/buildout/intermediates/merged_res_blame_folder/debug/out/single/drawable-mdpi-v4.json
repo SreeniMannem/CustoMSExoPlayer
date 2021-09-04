@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/mediasession/buildout/intermediates/res/merged/debug/drawable-mdpi-v4/exo_media_action_repeat_one.png",
+        "source": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/mediasession/src/main/res/drawable-mdpi/exo_media_action_repeat_one.png"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/mediasession/buildout/intermediates/res/merged/debug/drawable-mdpi-v4/exo_media_action_repeat_all.png",
+        "source": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/mediasession/src/main/res/drawable-mdpi/exo_media_action_repeat_all.png"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/mediasession/buildout/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/e9a95505c8c08d1cc49c6f3d6061f560/transformed/core-1.3.0/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/mediasession/buildout/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/e9a95505c8c08d1cc49c6f3d6061f560/transformed/core-1.3.0/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/mediasession/buildout/intermediates/res/merged/debug/drawable-mdpi-v4/exo_media_action_repeat_off.png",
+        "source": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/mediasession/src/main/res/drawable-mdpi/exo_media_action_repeat_off.png"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/mediasession/buildout/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/e9a95505c8c08d1cc49c6f3d6061f560/transformed/core-1.3.0/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/mediasession/buildout/intermediates/res/merged/debug/drawable-mdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/e9a95505c8c08d1cc49c6f3d6061f560/transformed/core-1.3.0/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/mediasession/buildout/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/e9a95505c8c08d1cc49c6f3d6061f560/transformed/core-1.3.0/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    }
+]

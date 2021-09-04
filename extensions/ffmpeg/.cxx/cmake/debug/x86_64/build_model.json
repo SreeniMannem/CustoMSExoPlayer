@@ -1,0 +1,214 @@
+{
+  "abi": "X86_64",
+  "info": {
+    "abi": "X86_64",
+    "bitness": 64,
+    "deprecated": false,
+    "default": true
+  },
+  "originalCxxBuildFolder": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/.cxx/cmake/debug/x86_64",
+  "cxxBuildFolder": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/.cxx/cmake/debug/x86_64",
+  "abiPlatformVersion": 16,
+  "cmake": {
+    "cmakeWrappingBaseFolder": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/.cxx/cxx/debug/x86_64",
+    "cmakeArtifactsBaseFolder": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/.cxx/cmake/debug/x86_64",
+    "effectiveConfiguration": {
+      "name": "traditional-android-studio-cmake-environment",
+      "description": "Composite reified CMakeSettings configuration",
+      "generator": "Ninja",
+      "inheritEnvironments": [
+        "ndk"
+      ],
+      "buildRoot": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/.cxx/cmake/debug/x86_64",
+      "cmakeToolchain": "/Users/sreenimannem/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake",
+      "cmakeExecutable": "/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/bin/cmake",
+      "variables": [
+        {
+          "name": "CMAKE_FIND_ROOT_PATH",
+          "value": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/.cxx/cmake/debug/prefab/x86_64/prefab"
+        },
+        {
+          "name": "CMAKE_BUILD_TYPE",
+          "value": "Debug"
+        },
+        {
+          "name": "CMAKE_TOOLCHAIN_FILE",
+          "value": "/Users/sreenimannem/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake"
+        },
+        {
+          "name": "ANDROID_ABI",
+          "value": "x86_64"
+        },
+        {
+          "name": "ANDROID_NDK",
+          "value": "/Users/sreenimannem/Library/Android/sdk/ndk/21.4.7075529"
+        },
+        {
+          "name": "ANDROID_PLATFORM",
+          "value": "android-16"
+        },
+        {
+          "name": "CMAKE_ANDROID_ARCH_ABI",
+          "value": "x86_64"
+        },
+        {
+          "name": "CMAKE_ANDROID_NDK",
+          "value": "/Users/sreenimannem/Library/Android/sdk/ndk/21.4.7075529"
+        },
+        {
+          "name": "CMAKE_EXPORT_COMPILE_COMMANDS",
+          "value": "ON"
+        },
+        {
+          "name": "CMAKE_LIBRARY_OUTPUT_DIRECTORY",
+          "value": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/buildout/intermediates/cmake/debug/obj/x86_64"
+        },
+        {
+          "name": "CMAKE_RUNTIME_OUTPUT_DIRECTORY",
+          "value": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/buildout/intermediates/cmake/debug/obj/x86_64"
+        },
+        {
+          "name": "CMAKE_MAKE_PROGRAM",
+          "value": "/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/bin/ninja"
+        },
+        {
+          "name": "CMAKE_SYSTEM_NAME",
+          "value": "Android"
+        },
+        {
+          "name": "CMAKE_SYSTEM_VERSION",
+          "value": "16"
+        }
+      ]
+    },
+    "cmakeServerLogFile": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/.cxx/cmake/debug/x86_64/cmake_server_log.txt"
+  },
+  "variant": {
+    "buildSystemArgumentList": [],
+    "cFlagsList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "objFolder": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/buildout/intermediates/cmake/debug/obj",
+    "soFolder": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/buildout/intermediates/cmake/debug/lib",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": [],
+    "implicitBuildTargetSet": [],
+    "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
+    "module": {
+      "cxxFolder": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/.cxx",
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/buildout/intermediates",
+      "gradleModulePathName": ":extension-ffmpeg",
+      "moduleRootFolder": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg",
+      "moduleBuildFile": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/build.gradle",
+      "makeFile": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "ndkFolder": "/Users/sreenimannem/Library/Android/sdk/ndk/21.4.7075529",
+      "ndkVersion": "21.4.7075529",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultStl": "LIBCXX_STATIC",
+      "ndkMetaPlatforms": {
+        "min": 16,
+        "max": 30,
+        "aliases": {
+          "20": 19,
+          "25": 24,
+          "J": 16,
+          "J-MR1": 17,
+          "J-MR2": 18,
+          "K": 19,
+          "L": 21,
+          "L-MR1": 22,
+          "M": 23,
+          "N": 24,
+          "N-MR1": 24,
+          "O": 26,
+          "O-MR1": 27,
+          "P": 28,
+          "Q": 29,
+          "R": 30
+        }
+      },
+      "ndkMetaAbiList": [
+        {
+          "abi": "ARMEABI_V7A",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "ARM64_V8A",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86_64",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        }
+      ],
+      "originalCmakeToolchainFile": "/Users/sreenimannem/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake",
+      "cmakeToolchainFile": "/Users/sreenimannem/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake",
+      "cmake": {
+        "isValidCmakeAvailable": true,
+        "cmakeExe": "/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/bin/cmake",
+        "minimumCmakeVersion": "3.7.1",
+        "ninjaExe": "/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+        "isPreferCmakeFileApiEnabled": true
+      },
+      "stlSharedObjectMap": {
+        "LIBCXX_SHARED": {
+          "ARMEABI_V7A": "/Users/sreenimannem/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/arm-linux-androideabi/libc++_shared.so",
+          "ARM64_V8A": "/Users/sreenimannem/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/aarch64-linux-android/libc++_shared.so",
+          "X86": "/Users/sreenimannem/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/i686-linux-android/libc++_shared.so",
+          "X86_64": "/Users/sreenimannem/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/x86_64-linux-android/libc++_shared.so"
+        },
+        "LIBCXX_STATIC": {},
+        "NONE": {},
+        "SYSTEM": {}
+      },
+      "project": {
+        "rootBuildGradleFolder": "/Users/sreenimannem/Downloads/ExoPlayerDemo",
+        "cxxFolder": "/Users/sreenimannem/Downloads/ExoPlayerDemo/.cxx",
+        "compilerSettingsCacheFolder": "/Users/sreenimannem/Downloads/ExoPlayerDemo/.cxx",
+        "sdkFolder": "/Users/sreenimannem/Library/Android/sdk",
+        "isNativeCompilerSettingsCacheEnabled": false,
+        "isBuildOnlyTargetAbiEnabled": true,
+        "isCmakeBuildCohabitationEnabled": false,
+        "isPrefabEnabled": false,
+        "isV2NativeModelEnabled": true
+      },
+      "nativeBuildOutputLevel": "QUIET"
+    },
+    "prefabDirectory": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/.cxx/cmake/debug/prefab"
+  },
+  "buildSettings": {
+    "environmentVariables": []
+  },
+  "prefabFolder": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/.cxx/cmake/debug/prefab/x86_64"
+}

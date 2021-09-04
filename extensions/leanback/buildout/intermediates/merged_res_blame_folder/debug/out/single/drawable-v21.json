@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/drawable-v21/lb_action_bg.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/drawable-v21/lb_action_bg.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/drawable-v21/lb_selectable_item_rounded_rect.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/drawable-v21/lb_selectable_item_rounded_rect.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7d7c22459e4eb218c5ff991cbc021a9e/transformed/core-1.0.0/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/drawable-v21/lb_card_foreground.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/drawable-v21/lb_card_foreground.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/drawable-v21/lb_control_button_primary.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/drawable-v21/lb_control_button_primary.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/drawable-v21/lb_control_button_secondary.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/drawable-v21/lb_control_button_secondary.xml"
+    }
+]

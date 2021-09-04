@@ -1,0 +1,7 @@
+com/google/android/exoplayer2/surfacedemo/package-info.java
+ com.google.android.exoplayer2.surfacedemo.package-info
+com/google/android/exoplayer2/surfacedemo/BuildConfig.java
+ com.google.android.exoplayer2.surfacedemo.BuildConfig
+com/google/android/exoplayer2/surfacedemo/MainActivity.java
+ com.google.android.exoplayer2.surfacedemo.MainActivity
+ com.google.android.exoplayer2.surfacedemo.MainActivity$1

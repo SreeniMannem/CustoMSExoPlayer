@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/mediasession/buildout/intermediates/res/merged/debug/drawable-xxhdpi-v4/exo_media_action_repeat_one.png",
+        "source": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/mediasession/src/main/res/drawable-xxhdpi/exo_media_action_repeat_one.png"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/mediasession/buildout/intermediates/res/merged/debug/drawable-xxhdpi-v4/exo_media_action_repeat_off.png",
+        "source": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/mediasession/src/main/res/drawable-xxhdpi/exo_media_action_repeat_off.png"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/mediasession/buildout/intermediates/res/merged/debug/drawable-xxhdpi-v4/exo_media_action_repeat_all.png",
+        "source": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/mediasession/src/main/res/drawable-xxhdpi/exo_media_action_repeat_all.png"
+    }
+]

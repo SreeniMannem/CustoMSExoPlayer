@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/bcbca2e51a8c716a4fea16a8c16b4efd/transformed/core-1.2.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/bcbca2e51a8c716a4fea16a8c16b4efd/transformed/core-1.2.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/bcbca2e51a8c716a4fea16a8c16b4efd/transformed/core-1.2.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/bcbca2e51a8c716a4fea16a8c16b4efd/transformed/core-1.2.0/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/workmanager/buildout/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/0145c3980ae736515740237be1da73ed/transformed/core-1.1.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/workmanager/buildout/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/0145c3980ae736515740237be1da73ed/transformed/core-1.1.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/workmanager/buildout/intermediates/res/merged/debug/layout/custom_dialog.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/0145c3980ae736515740237be1da73ed/transformed/core-1.1.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/workmanager/buildout/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/0145c3980ae736515740237be1da73ed/transformed/core-1.1.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/workmanager/buildout/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/0145c3980ae736515740237be1da73ed/transformed/core-1.1.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/workmanager/buildout/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/0145c3980ae736515740237be1da73ed/transformed/core-1.1.0/res/layout/notification_template_icon_group.xml"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/drawable/lb_speech_orb.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/drawable/lb_speech_orb.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/drawable/lb_control_button_secondary.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/drawable/lb_control_button_secondary.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/drawable/lb_search_orb.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/drawable/lb_search_orb.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7d7c22459e4eb218c5ff991cbc021a9e/transformed/core-1.0.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7d7c22459e4eb218c5ff991cbc021a9e/transformed/core-1.0.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/drawable/lb_headers_right_fading.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/drawable/lb_headers_right_fading.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/drawable/lb_playback_progress_bar.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/drawable/lb_playback_progress_bar.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/drawable/lb_control_button_primary.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/drawable/lb_control_button_primary.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/drawable/lb_playback_now_playing_bar.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/drawable/lb_playback_now_playing_bar.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/drawable/lb_card_foreground.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/drawable/lb_card_foreground.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/drawable/lb_background.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/drawable/lb_background.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7d7c22459e4eb218c5ff991cbc021a9e/transformed/core-1.0.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/drawable/lb_onboarding_start_button_background.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/drawable/lb_onboarding_start_button_background.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7d7c22459e4eb218c5ff991cbc021a9e/transformed/core-1.0.0/res/drawable/notification_tile_bg.xml"
+    }
+]

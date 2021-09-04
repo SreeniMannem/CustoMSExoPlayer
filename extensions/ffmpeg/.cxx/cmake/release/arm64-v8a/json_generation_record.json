@@ -1,0 +1,380 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 16 min SDK version: arm64-v8a",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "rebuilding JSON /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/.cxx/cmake/release/arm64-v8a/android_gradle_build.json due to:",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "- expected json /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/.cxx/cmake/release/arm64-v8a/android_gradle_build.json file is not present, will remove stale json folder",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "- missing previous command file /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/.cxx/cmake/release/arm64-v8a/build_command.txt, will remove stale json folder",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "- command changed from previous, will remove stale json folder",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "created folder \u0027/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/.cxx/cmake/release/arm64-v8a\u0027",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "executing cmake Executable : /Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/bin/cmake\narguments : \n-H/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni\n-DCMAKE_FIND_ROOT_PATH\u003d/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/.cxx/cmake/release/prefab/arm64-v8a/prefab\n-DCMAKE_BUILD_TYPE\u003dRelease\n-DCMAKE_TOOLCHAIN_FILE\u003d/Users/sreenimannem/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake\n-DANDROID_ABI\u003darm64-v8a\n-DANDROID_NDK\u003d/Users/sreenimannem/Library/Android/sdk/ndk/21.4.7075529\n-DANDROID_PLATFORM\u003dandroid-16\n-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a\n-DCMAKE_ANDROID_NDK\u003d/Users/sreenimannem/Library/Android/sdk/ndk/21.4.7075529\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/buildout/intermediates/cmake/release/obj/arm64-v8a\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/buildout/intermediates/cmake/release/obj/arm64-v8a\n-DCMAKE_MAKE_PROGRAM\u003d/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/bin/ninja\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_SYSTEM_VERSION\u003d16\n-B/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/.cxx/cmake/release/arm64-v8a\n-GNinja\njvmArgs : \n\n",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "\n",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "[\u003d\u003d \"CMake Server\" \u003d\u003d[\n",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"supportedProtocolVersions\":[{\"isExperimental\":true,\"major\":1,\"minor\":2}],\"type\":\"hello\"}\n",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "]\u003d\u003d \"CMake Server\" \u003d\u003d]\n",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"handshake\",\n  \"cookie\": \"gradle-cmake-cookie\",\n  \"protocolVersion\": {\n    \"isExperimental\": true,\n    \"major\": 1,\n    \"minor\": 2\n  },\n  \"sourceDirectory\": \"/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni\",\n  \"buildDirectory\": \"/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/.cxx/cmake/release/arm64-v8a\",\n  \"generator\": \"Ninja\"\n}\n",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"gradle-cmake-cookie\",\"inReplyTo\":\"handshake\",\"type\":\"reply\"}\n",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"configure\",\n  \"cacheArguments\": [\n    \"\",\n    \"-DCMAKE_FIND_ROOT_PATH\\u003d/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/.cxx/cmake/release/prefab/arm64-v8a/prefab\",\n    \"-DCMAKE_BUILD_TYPE\\u003dRelease\",\n    \"-DCMAKE_TOOLCHAIN_FILE\\u003d/Users/sreenimannem/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake\",\n    \"-DANDROID_ABI\\u003darm64-v8a\",\n    \"-DANDROID_NDK\\u003d/Users/sreenimannem/Library/Android/sdk/ndk/21.4.7075529\",\n    \"-DANDROID_PLATFORM\\u003dandroid-16\",\n    \"-DCMAKE_ANDROID_ARCH_ABI\\u003darm64-v8a\",\n    \"-DCMAKE_ANDROID_NDK\\u003d/Users/sreenimannem/Library/Android/sdk/ndk/21.4.7075529\",\n    \"-DCMAKE_EXPORT_COMPILE_COMMANDS\\u003dON\",\n    \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\\u003d/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/buildout/intermediates/cmake/release/obj/arm64-v8a\",\n    \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\\u003d/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/buildout/intermediates/cmake/release/obj/arm64-v8a\",\n    \"-DCMAKE_MAKE_PROGRAM\\u003d/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/bin/ninja\",\n    \"-DCMAKE_SYSTEM_NAME\\u003dAndroid\",\n    \"-DCMAKE_SYSTEM_VERSION\\u003d16\"\n  ]\n}\n",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info\",\"type\":\"message\"}\n",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compiler ABI info",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":33,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info - done\",\"type\":\"message\"}\n",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compiler ABI info - done",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: /Users/sreenimannem/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang - skipped\",\"type\":\"message\"}\n",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working C compiler: /Users/sreenimannem/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang - skipped",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features\",\"type\":\"message\"}\n",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compile features",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features - done\",\"type\":\"message\"}\n",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compile features - done",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info\",\"type\":\"message\"}\n",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compiler ABI info",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":65,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info - done\",\"type\":\"message\"}\n",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compiler ABI info - done",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working CXX compiler: /Users/sreenimannem/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ - skipped\",\"type\":\"message\"}\n",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working CXX compiler: /Users/sreenimannem/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ - skipped",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features\",\"type\":\"message\"}\n",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compile features",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features - done\",\"type\":\"message\"}\n",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compile features - done",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Configuring done\",\"type\":\"message\"}\n",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "Configuring done",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMake Deprecation Warning:\\n  The \u0027cmake-server(7)\u0027 is deprecated.  Please port clients to use the\\n  \u0027cmake-file-api(7)\u0027 instead.\\n\\n\",\"title\":\"Warning\",\"type\":\"message\"}\n",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "WARN",
+    "message": "CMake Deprecation Warning:\n  The \u0027cmake-server(7)\u0027 is deprecated.  Please port clients to use the\n  \u0027cmake-file-api(7)\u0027 instead.\n",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"type\":\"reply\"}\n",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"compute\"}\n",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":100,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"message\":\"Generating done\",\"type\":\"message\"}\n",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "Generating done",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"type\":\"reply\"}\n",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"cmakeInputs\"}\n",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"buildFiles\":[{\"isCMake\":true,\"isTemporary\":false,\"sources\":[\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeDetermineSystem.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android-Determine.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeSystem.cmake.in\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeSystemSpecificInitialize.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android-Initialize.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeDetermineCCompiler.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeDetermineCompiler.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android-Determine-C.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android/Determine-Compiler.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeFindBinUtils.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/Clang-FindBinUtils.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCCompiler.cmake.in\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeDetermineCXXCompiler.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeDetermineCompiler.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android-Determine-CXX.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android/Determine-Compiler.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeFindBinUtils.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/Clang-FindBinUtils.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCXXCompiler.cmake.in\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeSystemSpecificInformation.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeGenericSystem.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeInitializeConfigs.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Linux.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/UnixPaths.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCInformation.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeLanguageInformation.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/Clang-C.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/Clang.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/GNU.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Internal/CMakeCheckCompilerFlag.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android-Clang-C.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android-Clang.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCommonLanguageInclude.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeTestCCompiler.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeTestCompilerCommon.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeDetermineCompilerABI.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeParseImplicitIncludeInfo.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeParseImplicitLinkInfo.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeTestCompilerCommon.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCCompilerABI.c\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeDetermineCompileFeatures.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Internal/FeatureTesting.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCCompiler.cmake.in\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCXXInformation.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeLanguageInformation.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/Clang-CXX.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Compiler/Clang.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android-Clang-CXX.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Platform/Android-Clang.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCommonLanguageInclude.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeTestCXXCompiler.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeTestCompilerCommon.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeDetermineCompilerABI.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeParseImplicitIncludeInfo.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeParseImplicitLinkInfo.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeTestCompilerCommon.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCXXCompilerABI.cpp\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeDetermineCompileFeatures.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/Internal/FeatureTesting.cmake\",\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18/Modules/CMakeCXXCompiler.cmake.in\"]},{\"isCMake\":false,\"isTemporary\":false,\"sources\":[\"CMakeLists.txt\",\"/Users/sreenimannem/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake\",\"/Users/sreenimannem/Library/Android/sdk/ndk/21.4.7075529/build/cmake/platforms.cmake\",\"/Users/sreenimannem/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake\"]},{\"isCMake\":false,\"isTemporary\":true,\"sources\":[\"../../../.cxx/cmake/release/arm64-v8a/CMakeFiles/3.18.1-g262b901/CMakeSystem.cmake\",\"../../../.cxx/cmake/release/arm64-v8a/CMakeFiles/3.18.1-g262b901/CMakeCCompiler.cmake\",\"../../../.cxx/cmake/release/arm64-v8a/CMakeFiles/3.18.1-g262b901/CMakeCXXCompiler.cmake\",\"../../../.cxx/cmake/release/arm64-v8a/CMakeFiles/3.18.1-g262b901/CMakeCCompiler.cmake\",\"../../../.cxx/cmake/release/arm64-v8a/CMakeFiles/3.18.1-g262b901/CMakeCXXCompiler.cmake\"]}],\"cmakeRootDirectory\":\"/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/share/cmake-3.18\",\"cookie\":\"\",\"inReplyTo\":\"cmakeInputs\",\"sourceDirectory\":\"/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni\",\"type\":\"reply\"}\n",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"codemodel\"}\n",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"configurations\":[{\"name\":\"Release\",\"projects\":[{\"buildDirectory\":\"/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/.cxx/cmake/release/arm64-v8a\",\"hasInstallRule\":false,\"minimumCMakeVersion\":\"3.6.0\",\"name\":\"libffmpegJNI\",\"sourceDirectory\":\"/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni\",\"targets\":[{\"artifacts\":[\"/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/buildout/intermediates/cmake/release/obj/arm64-v8a/libffmpegJNI.so\"],\"buildDirectory\":\"/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/.cxx/cmake/release/arm64-v8a\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -Wformat -Werror\u003dformat-security   -O2 -DNDEBUG  -fPIC -std\u003dgnu++11\",\"defines\":[\"ffmpegJNI_EXPORTS\"],\"includePath\":[{\"path\":\"/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/ffmpeg\"}],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"ffmpeg_jni.cc\"]}],\"fullName\":\"libffmpegJNI.so\",\"isGeneratorProvided\":false,\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments\",\"linkLibraries\":\"-landroid  /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/ffmpeg/android-libs/arm64-v8a/libswresample.a  /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/ffmpeg/android-libs/arm64-v8a/libavcodec.a  /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/ffmpeg/android-libs/arm64-v8a/libavutil.a  -llog  -latomic -lm\",\"linkerLanguage\":\"CXX\",\"name\":\"ffmpegJNI\",\"sourceDirectory\":\"/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni\",\"sysroot\":\"/Users/sreenimannem/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"}]}]}],\"cookie\":\"\",\"inReplyTo\":\"codemodel\",\"type\":\"reply\"}\n",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "done executing cmake",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "write command file /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/.cxx/cmake/release/arm64-v8a/build_command.txt",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt",
+    "tag": "release|arm64-v8a",
+    "diagnosticCode": "UNKNOWN"
+  }
+]

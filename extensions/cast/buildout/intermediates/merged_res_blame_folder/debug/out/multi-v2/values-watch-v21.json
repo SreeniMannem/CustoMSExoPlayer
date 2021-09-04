@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/cast/buildout/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7c7f4cf192299af25fa08c9ce8756e57/transformed/appcompat-1.1.0/res/values-watch-v21/values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/cast/buildout/intermediates/res/merged/debug/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7c7f4cf192299af25fa08c9ce8756e57/transformed/appcompat-1.1.0/res/values-watch-v21/values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}

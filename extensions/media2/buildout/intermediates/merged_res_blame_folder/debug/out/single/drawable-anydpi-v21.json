@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/media2/buildout/intermediates/res/merged/debug/drawable-anydpi-v21/media_session_service_notification_ic_skip_to_next.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/1febae5d2aff43e55c010aeab86d6c9c/transformed/jetified-media2-session-1.1.3/res/drawable-anydpi-v21/media_session_service_notification_ic_skip_to_next.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/media2/buildout/intermediates/res/merged/debug/drawable-anydpi-v21/media_session_service_notification_ic_play.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/1febae5d2aff43e55c010aeab86d6c9c/transformed/jetified-media2-session-1.1.3/res/drawable-anydpi-v21/media_session_service_notification_ic_play.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/media2/buildout/intermediates/res/merged/debug/drawable-anydpi-v21/media_session_service_notification_ic_pause.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/1febae5d2aff43e55c010aeab86d6c9c/transformed/jetified-media2-session-1.1.3/res/drawable-anydpi-v21/media_session_service_notification_ic_pause.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/media2/buildout/intermediates/res/merged/debug/drawable-anydpi-v21/media_session_service_notification_ic_skip_to_previous.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/1febae5d2aff43e55c010aeab86d6c9c/transformed/jetified-media2-session-1.1.3/res/drawable-anydpi-v21/media_session_service_notification_ic_skip_to_previous.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/media2/buildout/intermediates/res/merged/debug/drawable-anydpi-v21/media_session_service_notification_ic_music_note.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/1febae5d2aff43e55c010aeab86d6c9c/transformed/jetified-media2-session-1.1.3/res/drawable-anydpi-v21/media_session_service_notification_ic_music_note.xml"
+    }
+]

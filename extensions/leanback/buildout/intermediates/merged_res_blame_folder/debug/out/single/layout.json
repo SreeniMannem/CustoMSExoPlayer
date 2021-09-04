@@ -1,0 +1,298 @@
+[
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_image_card_view_themed_badge_left.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_image_card_view_themed_badge_left.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_guidedactions_item.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_guidedactions_item.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_vertical_grid.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_vertical_grid.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7d7c22459e4eb218c5ff991cbc021a9e/transformed/core-1.0.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_guidedbuttonactions.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_guidedbuttonactions.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_row_media_item_action.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_row_media_item_action.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7d7c22459e4eb218c5ff991cbc021a9e/transformed/core-1.0.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_onboarding_fragment.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_onboarding_fragment.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_details_fragment.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_details_fragment.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_row_container.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_row_container.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_picker_item.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_picker_item.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_search_bar.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_search_bar.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_playback_controls_row.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_playback_controls_row.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_fullwidth_details_overview_logo.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_fullwidth_details_overview_logo.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_vertical_grid_fragment.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_vertical_grid_fragment.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_details_description.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_details_description.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_action_2_lines.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_action_2_lines.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7d7c22459e4eb218c5ff991cbc021a9e/transformed/core-1.0.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_control_button_secondary.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_control_button_secondary.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_playback_now_playing_bars.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_playback_now_playing_bars.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/notification_template_big_media_custom.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/077e5a25c7b0ed00d372ca3d84803bd1/transformed/media-1.0.0/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_divider.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_divider.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_fullwidth_details_overview.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_fullwidth_details_overview.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_background_window.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_background_window.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_picker.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_picker.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_headers_fragment.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_headers_fragment.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7d7c22459e4eb218c5ff991cbc021a9e/transformed/core-1.0.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_media_item_number_view_flipper.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_media_item_number_view_flipper.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_details_overview.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_details_overview.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_image_card_view.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_image_card_view.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_playback_fragment.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_playback_fragment.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_shadow.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_shadow.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_title_view.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_title_view.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_row_media_item.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_row_media_item.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_search_fragment.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_search_fragment.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_video_surface.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_video_surface.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_action_1_line.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_action_1_line.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_playback_transport_controls.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_playback_transport_controls.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_header.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_header.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7d7c22459e4eb218c5ff991cbc021a9e/transformed/core-1.0.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_row_header.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_row_header.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_section_header.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_section_header.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_playback_transport_controls_row.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_playback_transport_controls_row.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_search_orb.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_search_orb.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/077e5a25c7b0ed00d372ca3d84803bd1/transformed/media-1.0.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_list_row_hovercard.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_list_row_hovercard.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_picker_column.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_picker_column.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_guidedstep_fragment.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_guidedstep_fragment.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_speech_orb.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_speech_orb.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/077e5a25c7b0ed00d372ca3d84803bd1/transformed/media-1.0.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_error_fragment.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_error_fragment.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_image_card_view_themed_badge_right.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_image_card_view_themed_badge_right.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_guidedactions_datepicker_item.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_guidedactions_datepicker_item.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_media_list_header.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_media_list_header.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/077e5a25c7b0ed00d372ca3d84803bd1/transformed/media-1.0.0/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/077e5a25c7b0ed00d372ca3d84803bd1/transformed/media-1.0.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_browse_fragment.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_browse_fragment.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_guidance.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_guidance.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_guidedactions.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_guidedactions.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/077e5a25c7b0ed00d372ca3d84803bd1/transformed/media-1.0.0/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_picker_separator.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_picker_separator.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_control_bar.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_control_bar.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_control_button_primary.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_control_button_primary.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/077e5a25c7b0ed00d372ca3d84803bd1/transformed/media-1.0.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_rows_fragment.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_rows_fragment.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/video_surface_fragment.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/video_surface_fragment.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_image_card_view_themed_content.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_image_card_view_themed_content.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_playback_controls.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_playback_controls.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_browse_title.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_browse_title.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_image_card_view_themed_title.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_image_card_view_themed_title.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/077e5a25c7b0ed00d372ca3d84803bd1/transformed/media-1.0.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_guidedstep_background.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_guidedstep_background.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/lb_list_row.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/layout/lb_list_row.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/077e5a25c7b0ed00d372ca3d84803bd1/transformed/media-1.0.0/res/layout/notification_template_media_custom.xml"
+    }
+]

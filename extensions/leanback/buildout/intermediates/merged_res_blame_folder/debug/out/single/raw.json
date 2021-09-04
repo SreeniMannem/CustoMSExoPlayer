@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/raw/lb_voice_no_input.ogg",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/raw/lb_voice_no_input.ogg"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/raw/lb_voice_failure.ogg",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/raw/lb_voice_failure.ogg"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/raw/lb_voice_success.ogg",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/raw/lb_voice_success.ogg"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/raw/lb_voice_open.ogg",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/raw/lb_voice_open.ogg"
+    }
+]

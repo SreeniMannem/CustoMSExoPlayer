@@ -1,0 +1,4 @@
+#Fri Sep 03 21:15:44 IST 2021
+base.0=/Users/sreenimannem/Downloads/ExoPlayerDemo/demos/gl/buildout/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

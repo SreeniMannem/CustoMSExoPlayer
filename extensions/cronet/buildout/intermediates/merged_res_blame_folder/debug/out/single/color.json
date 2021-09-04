@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/cronet/buildout/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/631c3677c95d822253a09f8be2dff2f1/transformed/jetified-play-services-base-17.0.0/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/cronet/buildout/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/631c3677c95d822253a09f8be2dff2f1/transformed/jetified-play-services-base-17.0.0/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/cronet/buildout/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/631c3677c95d822253a09f8be2dff2f1/transformed/jetified-play-services-base-17.0.0/res/color/common_google_signin_btn_tint.xml"
+    }
+]

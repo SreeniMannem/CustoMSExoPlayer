@@ -1,0 +1,82 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/mediasession/buildout/intermediates/incremental/mergeDebugResources/merged.dir/values-eu/values-eu.xml",
+            "map": [
+                {
+                    "source": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/mediasession/src/main/res/values-eu/strings.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "2,2,2",
+                        "startOffsets": "214,53,133",
+                        "endColumns": "84,79,80",
+                        "endOffsets": "296,130,211"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,142,224",
+                        "endColumns": "86,81,82",
+                        "endOffsets": "137,219,302"
+                    }
+                },
+                {
+                    "source": "/Users/sreenimannem/.gradle/caches/transforms-3/e9a95505c8c08d1cc49c6f3d6061f560/transformed/core-1.3.0/res/values-eu/values-eu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "307",
+                        "endColumns": "100",
+                        "endOffsets": "403"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/mediasession/buildout/intermediates/res/merged/debug/values-eu/values-eu.xml",
+            "map": [
+                {
+                    "source": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/mediasession/src/main/res/values-eu/strings.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "2,2,2",
+                        "startOffsets": "214,53,133",
+                        "endColumns": "84,79,80",
+                        "endOffsets": "296,130,211"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,142,224",
+                        "endColumns": "86,81,82",
+                        "endOffsets": "137,219,302"
+                    }
+                },
+                {
+                    "source": "/Users/sreenimannem/.gradle/caches/transforms-3/e9a95505c8c08d1cc49c6f3d6061f560/transformed/core-1.3.0/res/values-eu/values-eu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "307",
+                        "endColumns": "100",
+                        "endOffsets": "403"
+                    }
+                }
+            ]
+        }
+    ]
+}

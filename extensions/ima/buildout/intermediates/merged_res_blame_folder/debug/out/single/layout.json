@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7c7f4cf192299af25fa08c9ce8756e57/transformed/appcompat-1.1.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7c7f4cf192299af25fa08c9ce8756e57/transformed/appcompat-1.1.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7c7f4cf192299af25fa08c9ce8756e57/transformed/appcompat-1.1.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7c7f4cf192299af25fa08c9ce8756e57/transformed/appcompat-1.1.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7c7f4cf192299af25fa08c9ce8756e57/transformed/appcompat-1.1.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7c7f4cf192299af25fa08c9ce8756e57/transformed/appcompat-1.1.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7c7f4cf192299af25fa08c9ce8756e57/transformed/appcompat-1.1.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7c7f4cf192299af25fa08c9ce8756e57/transformed/appcompat-1.1.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/preference_recyclerview.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/2dce02a3c57c1cb47b2e06ce2046c42b/transformed/preference-1.1.1/res/layout/preference_recyclerview.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/preference_category.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/2dce02a3c57c1cb47b2e06ce2046c42b/transformed/preference-1.1.1/res/layout/preference_category.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7c7f4cf192299af25fa08c9ce8756e57/transformed/appcompat-1.1.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/abc_cascading_menu_item_layout.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7c7f4cf192299af25fa08c9ce8756e57/transformed/appcompat-1.1.0/res/layout/abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7c7f4cf192299af25fa08c9ce8756e57/transformed/appcompat-1.1.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7c7f4cf192299af25fa08c9ce8756e57/transformed/appcompat-1.1.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7c7f4cf192299af25fa08c9ce8756e57/transformed/appcompat-1.1.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/preference_dropdown.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/2dce02a3c57c1cb47b2e06ce2046c42b/transformed/preference-1.1.1/res/layout/preference_dropdown.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7c7f4cf192299af25fa08c9ce8756e57/transformed/appcompat-1.1.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/bcbca2e51a8c716a4fea16a8c16b4efd/transformed/core-1.2.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7c7f4cf192299af25fa08c9ce8756e57/transformed/appcompat-1.1.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7c7f4cf192299af25fa08c9ce8756e57/transformed/appcompat-1.1.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7c7f4cf192299af25fa08c9ce8756e57/transformed/appcompat-1.1.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/preference_widget_switch_compat.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/2dce02a3c57c1cb47b2e06ce2046c42b/transformed/preference-1.1.1/res/layout/preference_widget_switch_compat.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/bcbca2e51a8c716a4fea16a8c16b4efd/transformed/core-1.2.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/preference_category_material.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/2dce02a3c57c1cb47b2e06ce2046c42b/transformed/preference-1.1.1/res/layout/preference_category_material.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7c7f4cf192299af25fa08c9ce8756e57/transformed/appcompat-1.1.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7c7f4cf192299af25fa08c9ce8756e57/transformed/appcompat-1.1.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7c7f4cf192299af25fa08c9ce8756e57/transformed/appcompat-1.1.0/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/preference_information.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/2dce02a3c57c1cb47b2e06ce2046c42b/transformed/preference-1.1.1/res/layout/preference_information.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7c7f4cf192299af25fa08c9ce8756e57/transformed/appcompat-1.1.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/preference_dialog_edittext.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/2dce02a3c57c1cb47b2e06ce2046c42b/transformed/preference-1.1.1/res/layout/preference_dialog_edittext.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/preference.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/2dce02a3c57c1cb47b2e06ce2046c42b/transformed/preference-1.1.1/res/layout/preference.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7c7f4cf192299af25fa08c9ce8756e57/transformed/appcompat-1.1.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7c7f4cf192299af25fa08c9ce8756e57/transformed/appcompat-1.1.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7c7f4cf192299af25fa08c9ce8756e57/transformed/appcompat-1.1.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7c7f4cf192299af25fa08c9ce8756e57/transformed/appcompat-1.1.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7c7f4cf192299af25fa08c9ce8756e57/transformed/appcompat-1.1.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7c7f4cf192299af25fa08c9ce8756e57/transformed/appcompat-1.1.0/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/preference_widget_seekbar.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/2dce02a3c57c1cb47b2e06ce2046c42b/transformed/preference-1.1.1/res/layout/preference_widget_seekbar.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/image_frame.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/2dce02a3c57c1cb47b2e06ce2046c42b/transformed/preference-1.1.1/res/layout/image_frame.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/preference_material.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/2dce02a3c57c1cb47b2e06ce2046c42b/transformed/preference-1.1.1/res/layout/preference_material.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/preference_dropdown_material.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/2dce02a3c57c1cb47b2e06ce2046c42b/transformed/preference-1.1.1/res/layout/preference_dropdown_material.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/preference_widget_seekbar_material.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/2dce02a3c57c1cb47b2e06ce2046c42b/transformed/preference-1.1.1/res/layout/preference_widget_seekbar_material.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/preference_widget_switch.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/2dce02a3c57c1cb47b2e06ce2046c42b/transformed/preference-1.1.1/res/layout/preference_widget_switch.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/custom_dialog.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/bcbca2e51a8c716a4fea16a8c16b4efd/transformed/core-1.2.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/bcbca2e51a8c716a4fea16a8c16b4efd/transformed/core-1.2.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/bcbca2e51a8c716a4fea16a8c16b4efd/transformed/core-1.2.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/preference_widget_checkbox.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/2dce02a3c57c1cb47b2e06ce2046c42b/transformed/preference-1.1.1/res/layout/preference_widget_checkbox.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7c7f4cf192299af25fa08c9ce8756e57/transformed/appcompat-1.1.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7c7f4cf192299af25fa08c9ce8756e57/transformed/appcompat-1.1.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/preference_list_fragment.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/2dce02a3c57c1cb47b2e06ce2046c42b/transformed/preference-1.1.1/res/layout/preference_list_fragment.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7c7f4cf192299af25fa08c9ce8756e57/transformed/appcompat-1.1.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/abc_tooltip.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7c7f4cf192299af25fa08c9ce8756e57/transformed/appcompat-1.1.0/res/layout/abc_tooltip.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/preference_information_material.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/2dce02a3c57c1cb47b2e06ce2046c42b/transformed/preference-1.1.1/res/layout/preference_information_material.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/expand_button.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/2dce02a3c57c1cb47b2e06ce2046c42b/transformed/preference-1.1.1/res/layout/expand_button.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7c7f4cf192299af25fa08c9ce8756e57/transformed/appcompat-1.1.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/bcbca2e51a8c716a4fea16a8c16b4efd/transformed/core-1.2.0/res/layout/notification_template_icon_group.xml"
+    }
+]

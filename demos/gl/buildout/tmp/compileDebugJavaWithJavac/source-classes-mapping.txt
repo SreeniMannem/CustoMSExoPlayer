@@ -1,0 +1,14 @@
+com/google/android/exoplayer2/gldemo/BitmapOverlayVideoProcessor.java
+ com.google.android.exoplayer2.gldemo.BitmapOverlayVideoProcessor
+com/google/android/exoplayer2/gldemo/MainActivity.java
+ com.google.android.exoplayer2.gldemo.MainActivity
+com/google/android/exoplayer2/gldemo/VideoProcessingGLSurfaceView.java
+ com.google.android.exoplayer2.gldemo.VideoProcessingGLSurfaceView
+ com.google.android.exoplayer2.gldemo.VideoProcessingGLSurfaceView$1
+ com.google.android.exoplayer2.gldemo.VideoProcessingGLSurfaceView$2
+ com.google.android.exoplayer2.gldemo.VideoProcessingGLSurfaceView$VideoProcessor
+ com.google.android.exoplayer2.gldemo.VideoProcessingGLSurfaceView$VideoRenderer
+com/google/android/exoplayer2/gldemo/package-info.java
+ com.google.android.exoplayer2.gldemo.package-info
+com/google/android/exoplayer2/gldemo/BuildConfig.java
+ com.google.android.exoplayer2.gldemo.BuildConfig

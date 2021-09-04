@@ -1,0 +1,23 @@
+com/google/android/exoplayer2/robolectric/TestDownloadManagerListener.java
+ com.google.android.exoplayer2.robolectric.TestDownloadManagerListener
+com/google/android/exoplayer2/robolectric/PlaybackOutput.java
+ com.google.android.exoplayer2.robolectric.PlaybackOutput
+com/google/android/exoplayer2/robolectric/RandomizedMp3Decoder.java
+ com.google.android.exoplayer2.robolectric.RandomizedMp3Decoder
+com/google/android/exoplayer2/robolectric/BuildConfig.java
+ com.google.android.exoplayer2.robolectric.BuildConfig
+com/google/android/exoplayer2/robolectric/ShadowMediaCodecConfig.java
+ com.google.android.exoplayer2.robolectric.ShadowMediaCodecConfig
+ com.google.android.exoplayer2.robolectric.ShadowMediaCodecConfig$CodecImpl
+com/google/android/exoplayer2/robolectric/RobolectricUtil.java
+ com.google.android.exoplayer2.robolectric.RobolectricUtil
+ com.google.android.exoplayer2.robolectric.RobolectricUtil$1
+com/google/android/exoplayer2/robolectric/package-info.java
+ com.google.android.exoplayer2.robolectric.package-info
+com/google/android/exoplayer2/robolectric/TestPlayerRunHelper.java
+ com.google.android.exoplayer2.robolectric.TestPlayerRunHelper
+ com.google.android.exoplayer2.robolectric.TestPlayerRunHelper$1
+ com.google.android.exoplayer2.robolectric.TestPlayerRunHelper$2
+ com.google.android.exoplayer2.robolectric.TestPlayerRunHelper$3
+ com.google.android.exoplayer2.robolectric.TestPlayerRunHelper$4
+ com.google.android.exoplayer2.robolectric.TestPlayerRunHelper$5

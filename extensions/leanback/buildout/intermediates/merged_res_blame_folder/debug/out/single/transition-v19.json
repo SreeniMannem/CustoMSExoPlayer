@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/transition-v19/lb_browse_headers_in.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/transition-v19/lb_browse_headers_in.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/leanback/buildout/intermediates/res/merged/debug/transition-v19/lb_browse_headers_out.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/c84d52026b92894897f27e5494d13502/transformed/leanback-1.0.0/res/transition-v19/lb_browse_headers_out.xml"
+    }
+]

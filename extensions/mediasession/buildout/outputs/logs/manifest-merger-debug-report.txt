@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/mediasession/src/main/AndroidManifest.xml:17:1-69
+INJECTED from /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/mediasession/src/main/AndroidManifest.xml:17:1-69
+INJECTED from /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/mediasession/src/main/AndroidManifest.xml:17:1-69
+	package
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/mediasession/src/main/AndroidManifest.xml:17:11-67
+		INJECTED from /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/mediasession/src/main/AndroidManifest.xml
+		INJECTED from /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/mediasession/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/mediasession/src/main/AndroidManifest.xml:17:1-69
+uses-sdk
+INJECTED from /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/mediasession/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/mediasession/src/main/AndroidManifest.xml
+INJECTED from /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/mediasession/src/main/AndroidManifest.xml
+INJECTED from /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/mediasession/src/main/AndroidManifest.xml
+INJECTED from /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/mediasession/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/mediasession/src/main/AndroidManifest.xml
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/mediasession/src/main/AndroidManifest.xml
+		INJECTED from /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/mediasession/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/mediasession/src/main/AndroidManifest.xml
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/mediasession/src/main/AndroidManifest.xml
+		INJECTED from /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/mediasession/src/main/AndroidManifest.xml

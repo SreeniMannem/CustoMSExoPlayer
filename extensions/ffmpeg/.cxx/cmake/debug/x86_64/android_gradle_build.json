@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/src/main/jni/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/.cxx/cmake/debug/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/.cxx/cmake/debug/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "ffmpegJNI-Debug-x86_64": {
+      "buildCommandComponents": [
+        "/Users/sreenimannem/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+        "-C",
+        "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/.cxx/cmake/debug/x86_64",
+        "ffmpegJNI"
+      ],
+      "buildType": "debug",
+      "abi": "x86_64",
+      "artifactName": "ffmpegJNI",
+      "output": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/buildout/intermediates/cmake/debug/obj/x86_64/libffmpegJNI.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cc"
+  ]
+}

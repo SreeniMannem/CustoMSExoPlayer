@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/cast/buildout/intermediates/res/merged/debug/drawable-anydpi-v21/ic_unchecked_checkbox.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/8655493643dd4941ec442c976efc0fc7/transformed/mediarouter-1.2.0/res/drawable-anydpi-v21/ic_unchecked_checkbox.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/cast/buildout/intermediates/res/merged/debug/drawable-anydpi-v21/ic_vol_mute.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/8655493643dd4941ec442c976efc0fc7/transformed/mediarouter-1.2.0/res/drawable-anydpi-v21/ic_vol_mute.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/cast/buildout/intermediates/res/merged/debug/drawable-anydpi-v21/ic_vol_unmute.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/8655493643dd4941ec442c976efc0fc7/transformed/mediarouter-1.2.0/res/drawable-anydpi-v21/ic_vol_unmute.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/cast/buildout/intermediates/res/merged/debug/drawable-anydpi-v21/ic_checked_checkbox.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/8655493643dd4941ec442c976efc0fc7/transformed/mediarouter-1.2.0/res/drawable-anydpi-v21/ic_checked_checkbox.xml"
+    }
+]

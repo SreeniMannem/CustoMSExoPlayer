@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/media2/buildout/intermediates/incremental/mergeDebugResources/merged.dir/values-bs/values-bs.xml",
+            "map": [
+                {
+                    "source": "/Users/sreenimannem/.gradle/caches/transforms-3/1febae5d2aff43e55c010aeab86d6c9c/transformed/jetified-media2-session-1.1.3/res/values-bs/values-bs.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,171,268,371,500",
+                        "endColumns": "115,96,102,128,135",
+                        "endOffsets": "166,263,366,495,631"
+                    }
+                },
+                {
+                    "source": "/Users/sreenimannem/.gradle/caches/transforms-3/e9a95505c8c08d1cc49c6f3d6061f560/transformed/core-1.3.0/res/values-bs/values-bs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "636",
+                        "endColumns": "100",
+                        "endOffsets": "732"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/media2/buildout/intermediates/res/merged/debug/values-bs/values-bs.xml",
+            "map": [
+                {
+                    "source": "/Users/sreenimannem/.gradle/caches/transforms-3/1febae5d2aff43e55c010aeab86d6c9c/transformed/jetified-media2-session-1.1.3/res/values-bs/values-bs.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,171,268,371,500",
+                        "endColumns": "115,96,102,128,135",
+                        "endOffsets": "166,263,366,495,631"
+                    }
+                },
+                {
+                    "source": "/Users/sreenimannem/.gradle/caches/transforms-3/e9a95505c8c08d1cc49c6f3d6061f560/transformed/core-1.3.0/res/values-bs/values-bs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "636",
+                        "endColumns": "100",
+                        "endOffsets": "732"
+                    }
+                }
+            ]
+        }
+    ]
+}

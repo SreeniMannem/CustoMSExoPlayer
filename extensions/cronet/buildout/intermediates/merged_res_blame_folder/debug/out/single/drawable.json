@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/cronet/buildout/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7d7c22459e4eb218c5ff991cbc021a9e/transformed/core-1.0.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/cronet/buildout/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/631c3677c95d822253a09f8be2dff2f1/transformed/jetified-play-services-base-17.0.0/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/cronet/buildout/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/631c3677c95d822253a09f8be2dff2f1/transformed/jetified-play-services-base-17.0.0/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/cronet/buildout/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7d7c22459e4eb218c5ff991cbc021a9e/transformed/core-1.0.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/cronet/buildout/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/631c3677c95d822253a09f8be2dff2f1/transformed/jetified-play-services-base-17.0.0/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/cronet/buildout/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/631c3677c95d822253a09f8be2dff2f1/transformed/jetified-play-services-base-17.0.0/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/cronet/buildout/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/631c3677c95d822253a09f8be2dff2f1/transformed/jetified-play-services-base-17.0.0/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/cronet/buildout/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/631c3677c95d822253a09f8be2dff2f1/transformed/jetified-play-services-base-17.0.0/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/cronet/buildout/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/631c3677c95d822253a09f8be2dff2f1/transformed/jetified-play-services-base-17.0.0/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/cronet/buildout/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/631c3677c95d822253a09f8be2dff2f1/transformed/jetified-play-services-base-17.0.0/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/cronet/buildout/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7d7c22459e4eb218c5ff991cbc021a9e/transformed/core-1.0.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/cronet/buildout/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/631c3677c95d822253a09f8be2dff2f1/transformed/jetified-play-services-base-17.0.0/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/cronet/buildout/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/7d7c22459e4eb218c5ff991cbc021a9e/transformed/core-1.0.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/cronet/buildout/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/631c3677c95d822253a09f8be2dff2f1/transformed/jetified-play-services-base-17.0.0/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/cronet/buildout/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/631c3677c95d822253a09f8be2dff2f1/transformed/jetified-play-services-base-17.0.0/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/cronet/buildout/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/631c3677c95d822253a09f8be2dff2f1/transformed/jetified-play-services-base-17.0.0/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/cronet/buildout/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/631c3677c95d822253a09f8be2dff2f1/transformed/jetified-play-services-base-17.0.0/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/cronet/buildout/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/631c3677c95d822253a09f8be2dff2f1/transformed/jetified-play-services-base-17.0.0/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    }
+]

@@ -1,0 +1,434 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:17:1-100:12
+INJECTED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:17:1-100:12
+INJECTED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:17:1-100:12
+INJECTED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:17:1-100:12
+MERGED from [com.google.android.material:material:1.3.0] /Users/sreenimannem/.gradle/caches/transforms-3/4005eab132f04421d84a4c4c414fb5ba/transformed/material-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/sreenimannem/.gradle/caches/transforms-3/8f476dab0fd99d1cd3b96ac6fcf29e15/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [:extension-ima] /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.preference:preference:1.1.1] /Users/sreenimannem/.gradle/caches/transforms-3/2dce02a3c57c1cb47b2e06ce2046c42b/transformed/preference-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/sreenimannem/.gradle/caches/transforms-3/fe3cb6a96b8e4c3cc5055ed9f0d95033/transformed/appcompat-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [:library-dash] /Users/sreenimannem/Downloads/ExoPlayerDemo/library/dash/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:17:1-24:12
+MERGED from [:library-hls] /Users/sreenimannem/Downloads/ExoPlayerDemo/library/hls/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:17:1-24:12
+MERGED from [:library-rtsp] /Users/sreenimannem/Downloads/ExoPlayerDemo/library/rtsp/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:17:1-24:12
+MERGED from [:library-smoothstreaming] /Users/sreenimannem/Downloads/ExoPlayerDemo/library/smoothstreaming/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:17:1-24:12
+MERGED from [:library-ui] /Users/sreenimannem/Downloads/ExoPlayerDemo/library/ui/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:17:1-24:12
+MERGED from [:extension-av1] /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/av1/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:17:1-24:12
+MERGED from [:extension-ffmpeg] /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:17:1-24:12
+MERGED from [:extension-flac] /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/flac/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:17:1-24:12
+MERGED from [:extension-opus] /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/opus/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:17:1-24:12
+MERGED from [:extension-vp9] /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/vp9/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:17:1-26:12
+MERGED from [:library-core] /Users/sreenimannem/Downloads/ExoPlayerDemo/library/core/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:17:1-26:12
+MERGED from [:extension-cronet] /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/cronet/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:17:1-26:12
+MERGED from [:extension-rtmp] /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/rtmp/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/5a219773781a11f69f4d99327467f5cd/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-cronet:17.0.1] /Users/sreenimannem/.gradle/caches/transforms-3/90e723ebb424aa08fc9c23fedd7993a1/transformed/jetified-play-services-cronet-17.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /Users/sreenimannem/.gradle/caches/transforms-3/d5baa3657dfd17a2bd187795c03b7721/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.1] /Users/sreenimannem/.gradle/caches/transforms-3/3b94c437377c45ba96985b86eaf14fc1/transformed/jetified-play-services-ads-identifier-17.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /Users/sreenimannem/.gradle/caches/transforms-3/47fbb5331912ec356de42acb51d2d4b0/transformed/jetified-play-services-tasks-17.2.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/sreenimannem/.gradle/caches/transforms-3/ccd97c8809c7810eb05e060155c7298b/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/sreenimannem/.gradle/caches/transforms-3/9737231b72460f946af64b5d9620fcb9/transformed/fragment-1.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] /Users/sreenimannem/.gradle/caches/transforms-3/dbfccee7a2769694bbe360562096e175/transformed/jetified-activity-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/sreenimannem/.gradle/caches/transforms-3/82dd075fe62b700cf648d35c92d34ba4/transformed/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/8267287c698135e5ac7582d876389021/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/sreenimannem/.gradle/caches/transforms-3/53f7d8e97012571bec1ff47c678a8b05/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/752f55ef0d106f3dd7bc277936eaaf40/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/sreenimannem/.gradle/caches/transforms-3/63d92c0c01b924597574d05b10792ee6/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sreenimannem/.gradle/caches/transforms-3/773f311e0fb24c60e95c9ec001de3dad/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sreenimannem/.gradle/caches/transforms-3/d0caba196f6d9225851f5f51c369af3b/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/sreenimannem/.gradle/caches/transforms-3/dbaa22d3e115757b293064a1108bbdb4/transformed/recyclerview-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.3.1] /Users/sreenimannem/.gradle/caches/transforms-3/f3c77eac978570549217a9bb57286699/transformed/media-1.3.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/ca345f93a3ad30056c6683407a7d9bd1/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/477f0c474fa25f1f538d0a5fde0622fc/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/49ec72bab05b44d1bc191dd6c53c2492/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/c008d8bad3e0a9b7bb28a8b4ba9cc49b/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] /Users/sreenimannem/.gradle/caches/transforms-3/6d2aeac3a115cc95402a51c41c66372e/transformed/core-1.5.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/263fa0f8402328da447f531bc4a87241/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/sreenimannem/.gradle/caches/transforms-3/d347493daf0ee8bb427339a185159bbb/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/sreenimannem/.gradle/caches/transforms-3/d63bb20d7e028648480e235eba453b26/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/sreenimannem/.gradle/caches/transforms-3/8eec9db8760d48d371c45b4f7655fd69/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/sreenimannem/.gradle/caches/transforms-3/b53ee9a740c7c159a2786149703dc73d/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/32d61ba5565e1b489d4f19feac5ec1c0/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:library-extractor] /Users/sreenimannem/Downloads/ExoPlayerDemo/library/extractor/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:17:1-24:12
+MERGED from [:library-common] /Users/sreenimannem/Downloads/ExoPlayerDemo/library/common/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sreenimannem/.gradle/caches/transforms-3/d0edfce45236cab415af45d75155d229/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/4b40964de83d915367b082531151477a/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/ece414ea1d03b590ced35d9a5c79c71e/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/sreenimannem/.gradle/caches/transforms-3/0594f61da4ca75df2a4ad0ce31bb08d8/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sreenimannem/.gradle/caches/transforms-3/aba175ac5e5db39f8cdee956fb0350c6/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/3f306afbb886526ddd7ca5554d989cac/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/66e2e9f1f22bea2700e5786aef65b772/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/e2606caed6be924b2bd765ebd03baa94/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/ab43ae3c3203e5cd53e79f3057e7643b/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/sreenimannem/.gradle/caches/transforms-3/2bcf7e4f7c3180f0513d93667099f89c/transformed/multidex-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/0e55789971c571a2a53e3af94fb9f30a/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [net.butterflytv.utils:rtmp-client:3.1.0] /Users/sreenimannem/.gradle/caches/transforms-3/e6a5c0a04b9a590aef53a127d40b1ad9/transformed/jetified-rtmp-client-3.1.0/AndroidManifest.xml:2:1-13:12
+MERGED from [org.chromium.net:cronet-api:72.3626.96] /Users/sreenimannem/.gradle/caches/transforms-3/a9932e4b2ee7b03ddaf92bcefe5b6f2c/transformed/jetified-cronet-api-72.3626.96/AndroidManifest.xml:15:1-22:12
+INJECTED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:17:1-100:12
+INJECTED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:17:1-100:12
+INJECTED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:17:1-100:12
+	package
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:19:5-49
+		INJECTED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml
+		INJECTED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:17:1-100:12
+		INJECTED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:18:5-51
+	android:versionCode
+		INJECTED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:17:1-100:12
+		INJECTED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:17:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:21:3-64
+MERGED from [net.butterflytv.utils:rtmp-client:3.1.0] /Users/sreenimannem/.gradle/caches/transforms-3/e6a5c0a04b9a590aef53a127d40b1ad9/transformed/jetified-rtmp-client-3.1.0/AndroidManifest.xml:11:5-67
+MERGED from [net.butterflytv.utils:rtmp-client:3.1.0] /Users/sreenimannem/.gradle/caches/transforms-3/e6a5c0a04b9a590aef53a127d40b1ad9/transformed/jetified-rtmp-client-3.1.0/AndroidManifest.xml:11:5-67
+MERGED from [org.chromium.net:cronet-api:72.3626.96] /Users/sreenimannem/.gradle/caches/transforms-3/a9932e4b2ee7b03ddaf92bcefe5b6f2c/transformed/jetified-cronet-api-72.3626.96/AndroidManifest.xml:19:5-66
+MERGED from [org.chromium.net:cronet-api:72.3626.96] /Users/sreenimannem/.gradle/caches/transforms-3/a9932e4b2ee7b03ddaf92bcefe5b6f2c/transformed/jetified-cronet-api-72.3626.96/AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:21:20-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:22:3-76
+MERGED from [:library-core] /Users/sreenimannem/Downloads/ExoPlayerDemo/library/core/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:24:5-79
+MERGED from [:library-core] /Users/sreenimannem/Downloads/ExoPlayerDemo/library/core/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:24:5-79
+MERGED from [:extension-cronet] /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/cronet/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:24:5-79
+MERGED from [:extension-cronet] /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/cronet/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:24:5-79
+MERGED from [:library-common] /Users/sreenimannem/Downloads/ExoPlayerDemo/library/common/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:24:5-79
+MERGED from [:library-common] /Users/sreenimannem/Downloads/ExoPlayerDemo/library/common/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:24:5-79
+MERGED from [org.chromium.net:cronet-api:72.3626.96] /Users/sreenimannem/.gradle/caches/transforms-3/a9932e4b2ee7b03ddaf92bcefe5b6f2c/transformed/jetified-cronet-api-72.3626.96/AndroidManifest.xml:20:5-78
+MERGED from [org.chromium.net:cronet-api:72.3626.96] /Users/sreenimannem/.gradle/caches/transforms-3/a9932e4b2ee7b03ddaf92bcefe5b6f2c/transformed/jetified-cronet-api-72.3626.96/AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:22:20-74
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:23:3-77
+	android:name
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:23:20-75
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:24:3-78
+	android:name
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:24:20-76
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:25:3-74
+	android:name
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:25:20-72
+uses-feature#android.software.leanback
+ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:27:3-84
+	android:required
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:27:58-82
+	android:name
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:27:17-57
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:28:3-87
+	android:required
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:28:61-85
+	android:name
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:28:17-60
+uses-sdk
+ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:29:3-14
+INJECTED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:29:3-14
+INJECTED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:29:3-14
+MERGED from [com.google.android.material:material:1.3.0] /Users/sreenimannem/.gradle/caches/transforms-3/4005eab132f04421d84a4c4c414fb5ba/transformed/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] /Users/sreenimannem/.gradle/caches/transforms-3/4005eab132f04421d84a4c4c414fb5ba/transformed/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/sreenimannem/.gradle/caches/transforms-3/8f476dab0fd99d1cd3b96ac6fcf29e15/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/sreenimannem/.gradle/caches/transforms-3/8f476dab0fd99d1cd3b96ac6fcf29e15/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [:extension-ima] /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:extension-ima] /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.1] /Users/sreenimannem/.gradle/caches/transforms-3/2dce02a3c57c1cb47b2e06ce2046c42b/transformed/preference-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.1] /Users/sreenimannem/.gradle/caches/transforms-3/2dce02a3c57c1cb47b2e06ce2046c42b/transformed/preference-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/sreenimannem/.gradle/caches/transforms-3/fe3cb6a96b8e4c3cc5055ed9f0d95033/transformed/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/sreenimannem/.gradle/caches/transforms-3/fe3cb6a96b8e4c3cc5055ed9f0d95033/transformed/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:library-dash] /Users/sreenimannem/Downloads/ExoPlayerDemo/library/dash/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:library-dash] /Users/sreenimannem/Downloads/ExoPlayerDemo/library/dash/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:library-hls] /Users/sreenimannem/Downloads/ExoPlayerDemo/library/hls/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:library-hls] /Users/sreenimannem/Downloads/ExoPlayerDemo/library/hls/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:library-rtsp] /Users/sreenimannem/Downloads/ExoPlayerDemo/library/rtsp/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:library-rtsp] /Users/sreenimannem/Downloads/ExoPlayerDemo/library/rtsp/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:library-smoothstreaming] /Users/sreenimannem/Downloads/ExoPlayerDemo/library/smoothstreaming/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:library-smoothstreaming] /Users/sreenimannem/Downloads/ExoPlayerDemo/library/smoothstreaming/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:library-ui] /Users/sreenimannem/Downloads/ExoPlayerDemo/library/ui/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:library-ui] /Users/sreenimannem/Downloads/ExoPlayerDemo/library/ui/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:extension-av1] /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/av1/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:extension-av1] /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/av1/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:extension-ffmpeg] /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:extension-ffmpeg] /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ffmpeg/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:extension-flac] /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/flac/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:extension-flac] /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/flac/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:extension-opus] /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/opus/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:extension-opus] /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/opus/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:extension-vp9] /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/vp9/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:extension-vp9] /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/vp9/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:library-core] /Users/sreenimannem/Downloads/ExoPlayerDemo/library/core/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:library-core] /Users/sreenimannem/Downloads/ExoPlayerDemo/library/core/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:extension-cronet] /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/cronet/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:extension-cronet] /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/cronet/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:extension-rtmp] /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/rtmp/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:extension-rtmp] /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/rtmp/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/5a219773781a11f69f4d99327467f5cd/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/5a219773781a11f69f4d99327467f5cd/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-cronet:17.0.1] /Users/sreenimannem/.gradle/caches/transforms-3/90e723ebb424aa08fc9c23fedd7993a1/transformed/jetified-play-services-cronet-17.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cronet:17.0.1] /Users/sreenimannem/.gradle/caches/transforms-3/90e723ebb424aa08fc9c23fedd7993a1/transformed/jetified-play-services-cronet-17.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /Users/sreenimannem/.gradle/caches/transforms-3/d5baa3657dfd17a2bd187795c03b7721/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /Users/sreenimannem/.gradle/caches/transforms-3/d5baa3657dfd17a2bd187795c03b7721/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.1] /Users/sreenimannem/.gradle/caches/transforms-3/3b94c437377c45ba96985b86eaf14fc1/transformed/jetified-play-services-ads-identifier-17.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.1] /Users/sreenimannem/.gradle/caches/transforms-3/3b94c437377c45ba96985b86eaf14fc1/transformed/jetified-play-services-ads-identifier-17.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /Users/sreenimannem/.gradle/caches/transforms-3/47fbb5331912ec356de42acb51d2d4b0/transformed/jetified-play-services-tasks-17.2.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /Users/sreenimannem/.gradle/caches/transforms-3/47fbb5331912ec356de42acb51d2d4b0/transformed/jetified-play-services-tasks-17.2.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/sreenimannem/.gradle/caches/transforms-3/ccd97c8809c7810eb05e060155c7298b/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/sreenimannem/.gradle/caches/transforms-3/ccd97c8809c7810eb05e060155c7298b/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/sreenimannem/.gradle/caches/transforms-3/9737231b72460f946af64b5d9620fcb9/transformed/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/sreenimannem/.gradle/caches/transforms-3/9737231b72460f946af64b5d9620fcb9/transformed/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /Users/sreenimannem/.gradle/caches/transforms-3/dbfccee7a2769694bbe360562096e175/transformed/jetified-activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /Users/sreenimannem/.gradle/caches/transforms-3/dbfccee7a2769694bbe360562096e175/transformed/jetified-activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/sreenimannem/.gradle/caches/transforms-3/82dd075fe62b700cf648d35c92d34ba4/transformed/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/sreenimannem/.gradle/caches/transforms-3/82dd075fe62b700cf648d35c92d34ba4/transformed/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/8267287c698135e5ac7582d876389021/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/8267287c698135e5ac7582d876389021/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/sreenimannem/.gradle/caches/transforms-3/53f7d8e97012571bec1ff47c678a8b05/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/sreenimannem/.gradle/caches/transforms-3/53f7d8e97012571bec1ff47c678a8b05/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/752f55ef0d106f3dd7bc277936eaaf40/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/752f55ef0d106f3dd7bc277936eaaf40/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/sreenimannem/.gradle/caches/transforms-3/63d92c0c01b924597574d05b10792ee6/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/sreenimannem/.gradle/caches/transforms-3/63d92c0c01b924597574d05b10792ee6/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sreenimannem/.gradle/caches/transforms-3/773f311e0fb24c60e95c9ec001de3dad/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sreenimannem/.gradle/caches/transforms-3/773f311e0fb24c60e95c9ec001de3dad/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sreenimannem/.gradle/caches/transforms-3/d0caba196f6d9225851f5f51c369af3b/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sreenimannem/.gradle/caches/transforms-3/d0caba196f6d9225851f5f51c369af3b/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/sreenimannem/.gradle/caches/transforms-3/dbaa22d3e115757b293064a1108bbdb4/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/sreenimannem/.gradle/caches/transforms-3/dbaa22d3e115757b293064a1108bbdb4/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.3.1] /Users/sreenimannem/.gradle/caches/transforms-3/f3c77eac978570549217a9bb57286699/transformed/media-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.3.1] /Users/sreenimannem/.gradle/caches/transforms-3/f3c77eac978570549217a9bb57286699/transformed/media-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/ca345f93a3ad30056c6683407a7d9bd1/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/ca345f93a3ad30056c6683407a7d9bd1/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/477f0c474fa25f1f538d0a5fde0622fc/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/477f0c474fa25f1f538d0a5fde0622fc/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/49ec72bab05b44d1bc191dd6c53c2492/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/49ec72bab05b44d1bc191dd6c53c2492/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/c008d8bad3e0a9b7bb28a8b4ba9cc49b/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/c008d8bad3e0a9b7bb28a8b4ba9cc49b/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] /Users/sreenimannem/.gradle/caches/transforms-3/6d2aeac3a115cc95402a51c41c66372e/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /Users/sreenimannem/.gradle/caches/transforms-3/6d2aeac3a115cc95402a51c41c66372e/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/263fa0f8402328da447f531bc4a87241/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/263fa0f8402328da447f531bc4a87241/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/sreenimannem/.gradle/caches/transforms-3/d347493daf0ee8bb427339a185159bbb/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/sreenimannem/.gradle/caches/transforms-3/d347493daf0ee8bb427339a185159bbb/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/sreenimannem/.gradle/caches/transforms-3/d63bb20d7e028648480e235eba453b26/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/sreenimannem/.gradle/caches/transforms-3/d63bb20d7e028648480e235eba453b26/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/sreenimannem/.gradle/caches/transforms-3/8eec9db8760d48d371c45b4f7655fd69/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/sreenimannem/.gradle/caches/transforms-3/8eec9db8760d48d371c45b4f7655fd69/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/sreenimannem/.gradle/caches/transforms-3/b53ee9a740c7c159a2786149703dc73d/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/sreenimannem/.gradle/caches/transforms-3/b53ee9a740c7c159a2786149703dc73d/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/32d61ba5565e1b489d4f19feac5ec1c0/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/32d61ba5565e1b489d4f19feac5ec1c0/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:library-extractor] /Users/sreenimannem/Downloads/ExoPlayerDemo/library/extractor/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:library-extractor] /Users/sreenimannem/Downloads/ExoPlayerDemo/library/extractor/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:library-common] /Users/sreenimannem/Downloads/ExoPlayerDemo/library/common/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:library-common] /Users/sreenimannem/Downloads/ExoPlayerDemo/library/common/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sreenimannem/.gradle/caches/transforms-3/d0edfce45236cab415af45d75155d229/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sreenimannem/.gradle/caches/transforms-3/d0edfce45236cab415af45d75155d229/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/4b40964de83d915367b082531151477a/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/4b40964de83d915367b082531151477a/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/ece414ea1d03b590ced35d9a5c79c71e/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/ece414ea1d03b590ced35d9a5c79c71e/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/sreenimannem/.gradle/caches/transforms-3/0594f61da4ca75df2a4ad0ce31bb08d8/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/sreenimannem/.gradle/caches/transforms-3/0594f61da4ca75df2a4ad0ce31bb08d8/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sreenimannem/.gradle/caches/transforms-3/aba175ac5e5db39f8cdee956fb0350c6/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sreenimannem/.gradle/caches/transforms-3/aba175ac5e5db39f8cdee956fb0350c6/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/3f306afbb886526ddd7ca5554d989cac/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/3f306afbb886526ddd7ca5554d989cac/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/66e2e9f1f22bea2700e5786aef65b772/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/66e2e9f1f22bea2700e5786aef65b772/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/e2606caed6be924b2bd765ebd03baa94/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/e2606caed6be924b2bd765ebd03baa94/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/ab43ae3c3203e5cd53e79f3057e7643b/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/ab43ae3c3203e5cd53e79f3057e7643b/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/sreenimannem/.gradle/caches/transforms-3/2bcf7e4f7c3180f0513d93667099f89c/transformed/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/sreenimannem/.gradle/caches/transforms-3/2bcf7e4f7c3180f0513d93667099f89c/transformed/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/0e55789971c571a2a53e3af94fb9f30a/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/sreenimannem/.gradle/caches/transforms-3/0e55789971c571a2a53e3af94fb9f30a/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [net.butterflytv.utils:rtmp-client:3.1.0] /Users/sreenimannem/.gradle/caches/transforms-3/e6a5c0a04b9a590aef53a127d40b1ad9/transformed/jetified-rtmp-client-3.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [net.butterflytv.utils:rtmp-client:3.1.0] /Users/sreenimannem/.gradle/caches/transforms-3/e6a5c0a04b9a590aef53a127d40b1ad9/transformed/jetified-rtmp-client-3.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [org.chromium.net:cronet-api:72.3626.96] /Users/sreenimannem/.gradle/caches/transforms-3/a9932e4b2ee7b03ddaf92bcefe5b6f2c/transformed/jetified-cronet-api-72.3626.96/AndroidManifest.xml:18:5-74
+MERGED from [org.chromium.net:cronet-api:72.3626.96] /Users/sreenimannem/.gradle/caches/transforms-3/a9932e4b2ee7b03ddaf92bcefe5b6f2c/transformed/jetified-cronet-api-72.3626.96/AndroidManifest.xml:18:5-74
+INJECTED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:29:3-14
+INJECTED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:29:3-14
+	android:targetSdkVersion
+		INJECTED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:29:3-14
+		INJECTED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:29:3-14
+		INJECTED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml
+application
+ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:31:3-98:17
+MERGED from [com.google.android.material:material:1.3.0] /Users/sreenimannem/.gradle/caches/transforms-3/4005eab132f04421d84a4c4c414fb5ba/transformed/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] /Users/sreenimannem/.gradle/caches/transforms-3/4005eab132f04421d84a4c4c414fb5ba/transformed/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/sreenimannem/.gradle/caches/transforms-3/8f476dab0fd99d1cd3b96ac6fcf29e15/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/sreenimannem/.gradle/caches/transforms-3/8f476dab0fd99d1cd3b96ac6fcf29e15/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [:extension-ima] /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:24:5-31:19
+MERGED from [:extension-ima] /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.android.gms:play-services-cronet:17.0.1] /Users/sreenimannem/.gradle/caches/transforms-3/90e723ebb424aa08fc9c23fedd7993a1/transformed/jetified-play-services-cronet-17.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-cronet:17.0.1] /Users/sreenimannem/.gradle/caches/transforms-3/90e723ebb424aa08fc9c23fedd7993a1/transformed/jetified-play-services-cronet-17.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /Users/sreenimannem/.gradle/caches/transforms-3/d5baa3657dfd17a2bd187795c03b7721/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /Users/sreenimannem/.gradle/caches/transforms-3/d5baa3657dfd17a2bd187795c03b7721/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.1] /Users/sreenimannem/.gradle/caches/transforms-3/3b94c437377c45ba96985b86eaf14fc1/transformed/jetified-play-services-ads-identifier-17.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.1] /Users/sreenimannem/.gradle/caches/transforms-3/3b94c437377c45ba96985b86eaf14fc1/transformed/jetified-play-services-ads-identifier-17.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /Users/sreenimannem/.gradle/caches/transforms-3/47fbb5331912ec356de42acb51d2d4b0/transformed/jetified-play-services-tasks-17.2.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /Users/sreenimannem/.gradle/caches/transforms-3/47fbb5331912ec356de42acb51d2d4b0/transformed/jetified-play-services-tasks-17.2.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/sreenimannem/.gradle/caches/transforms-3/ccd97c8809c7810eb05e060155c7298b/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/sreenimannem/.gradle/caches/transforms-3/ccd97c8809c7810eb05e060155c7298b/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.5.0] /Users/sreenimannem/.gradle/caches/transforms-3/6d2aeac3a115cc95402a51c41c66372e/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] /Users/sreenimannem/.gradle/caches/transforms-3/6d2aeac3a115cc95402a51c41c66372e/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sreenimannem/.gradle/caches/transforms-3/d0edfce45236cab415af45d75155d229/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sreenimannem/.gradle/caches/transforms-3/d0edfce45236cab415af45d75155d229/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:requestLegacyExternalStorage
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:37:7-50
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] /Users/sreenimannem/.gradle/caches/transforms-3/6d2aeac3a115cc95402a51c41c66372e/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:32:7-47
+	tools:targetApi
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:39:7-27
+	android:largeHeap
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:35:7-31
+	android:icon
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:33:7-41
+	android:allowBackup
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:36:7-34
+	android:banner
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:34:7-43
+	android:name
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:38:7-59
+activity#com.google.android.exoplayer2.demo.SampleChooserActivity
+ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:41:5-63:16
+	android:label
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:43:9-49
+	android:exported
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:45:9-32
+	android:configChanges
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:42:9-47
+	android:theme
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:44:9-47
+	android:name
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:41:15-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:46:7-50:23
+action#android.intent.action.MAIN
+ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:47:9-60
+	android:name
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:47:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:48:9-68
+	android:name
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:48:19-66
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:49:9-77
+	android:name
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:49:19-75
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:*+data:pathPattern:.*\\.exolist\\.json+data:scheme:asset+data:scheme:content+data:scheme:file+data:scheme:http+data:scheme:https
+ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:51:7-62:23
+action#android.intent.action.VIEW
+ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:52:9-60
+	android:name
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:52:17-58
+category#android.intent.category.DEFAULT
+ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:53:9-67
+	android:name
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:53:19-65
+category#android.intent.category.BROWSABLE
+ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:54:9-69
+	android:name
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:54:19-67
+data
+ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:55:9-38
+	android:host
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:60:15-31
+	android:scheme
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:55:15-36
+	android:pathPattern
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:61:15-56
+activity#com.google.android.exoplayer2.demo.PlayerActivity
+ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:65:5-84:16
+	android:label
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:68:9-49
+	android:launchMode
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:67:9-39
+	android:exported
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:70:9-32
+	android:configChanges
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:66:9-118
+	android:theme
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:69:9-43
+	android:name
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:65:15-45
+intent-filter#action:name:com.google.android.exoplayer.demo.action.VIEW+category:name:android.intent.category.DEFAULT+data:scheme:asset+data:scheme:content+data:scheme:file+data:scheme:http+data:scheme:https
+ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:71:7-79:23
+action#com.google.android.exoplayer.demo.action.VIEW
+ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:72:9-79
+	android:name
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:72:17-77
+intent-filter#action:name:com.google.android.exoplayer.demo.action.VIEW_LIST+category:name:android.intent.category.DEFAULT
+ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:80:7-83:23
+action#com.google.android.exoplayer.demo.action.VIEW_LIST
+ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:81:9-84
+	android:name
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:81:17-82
+service#com.google.android.exoplayer2.demo.DemoDownloadService
+ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:86:5-92:15
+	android:exported
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:87:9-33
+	android:name
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:86:14-49
+intent-filter#action:name:com.google.android.exoplayer.downloadService.action.RESTART+category:name:android.intent.category.DEFAULT
+ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:88:7-91:23
+action#com.google.android.exoplayer.downloadService.action.RESTART
+ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:89:9-93
+	android:name
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:89:17-91
+service#com.google.android.exoplayer2.scheduler.PlatformScheduler$PlatformSchedulerService
+ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:94:5-96:34
+	android:exported
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:96:9-32
+	android:permission
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:95:9-65
+	android:name
+		ADDED from /Users/sreenimannem/Downloads/ExoPlayerDemo/demos/main/src/main/AndroidManifest.xml:94:14-111
+meta-data#com.google.android.gms.ads.AD_MANAGER_APP
+ADDED from [:extension-ima] /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:25:9-27:36
+	android:value
+		ADDED from [:extension-ima] /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:27:13-33
+	android:name
+		ADDED from [:extension-ima] /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:26:13-69
+meta-data#com.google.android.gms.version
+ADDED from [:extension-ima] /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:28:9-30:69
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/sreenimannem/.gradle/caches/transforms-3/ccd97c8809c7810eb05e060155c7298b/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/sreenimannem/.gradle/caches/transforms-3/ccd97c8809c7810eb05e060155c7298b/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [:extension-ima] /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:30:13-66
+	android:name
+		ADDED from [:extension-ima] /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/ima/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:29:13-58
+uses-feature#0x00020000
+ADDED from [:extension-vp9] /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/vp9/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:24:5-54
+	android:glEsVersion
+		ADDED from [:extension-vp9] /Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/vp9/buildout/intermediates/merged_manifest/debug/AndroidManifest.xml:24:19-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.6.0] /Users/sreenimannem/.gradle/caches/transforms-3/d5baa3657dfd17a2bd187795c03b7721/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.6.0] /Users/sreenimannem/.gradle/caches/transforms-3/d5baa3657dfd17a2bd187795c03b7721/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.6.0] /Users/sreenimannem/.gradle/caches/transforms-3/d5baa3657dfd17a2bd187795c03b7721/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.6.0] /Users/sreenimannem/.gradle/caches/transforms-3/d5baa3657dfd17a2bd187795c03b7721/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:24:13-79
+queries
+ADDED from [androidx.media:media:1.3.1] /Users/sreenimannem/.gradle/caches/transforms-3/f3c77eac978570549217a9bb57286699/transformed/media-1.3.1/AndroidManifest.xml:24:5-28:15
+intent#action:name:android.media.browse.MediaBrowserService
+ADDED from [androidx.media:media:1.3.1] /Users/sreenimannem/.gradle/caches/transforms-3/f3c77eac978570549217a9bb57286699/transformed/media-1.3.1/AndroidManifest.xml:25:9-27:18
+action#android.media.browse.MediaBrowserService
+ADDED from [androidx.media:media:1.3.1] /Users/sreenimannem/.gradle/caches/transforms-3/f3c77eac978570549217a9bb57286699/transformed/media-1.3.1/AndroidManifest.xml:26:13-79
+	android:name
+		ADDED from [androidx.media:media:1.3.1] /Users/sreenimannem/.gradle/caches/transforms-3/f3c77eac978570549217a9bb57286699/transformed/media-1.3.1/AndroidManifest.xml:26:21-76

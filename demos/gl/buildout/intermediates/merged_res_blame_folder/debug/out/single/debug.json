@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/demos/gl/buildout/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/sreenimannem/Downloads/ExoPlayerDemo/demos/gl/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/demos/gl/buildout/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/sreenimannem/Downloads/ExoPlayerDemo/demos/gl/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/demos/gl/buildout/intermediates/res/merged/debug/layout_main_activity.xml.flat",
+        "source": "/Users/sreenimannem/Downloads/ExoPlayerDemo/demos/gl/src/main/res/layout/main_activity.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/demos/gl/buildout/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/sreenimannem/Downloads/ExoPlayerDemo/demos/gl/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/demos/gl/buildout/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/sreenimannem/Downloads/ExoPlayerDemo/demos/gl/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/demos/gl/buildout/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/sreenimannem/Downloads/ExoPlayerDemo/demos/gl/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

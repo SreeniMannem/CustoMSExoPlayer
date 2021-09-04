@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/workmanager/buildout/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/0145c3980ae736515740237be1da73ed/transformed/core-1.1.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/workmanager/buildout/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/0145c3980ae736515740237be1da73ed/transformed/core-1.1.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/workmanager/buildout/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/0145c3980ae736515740237be1da73ed/transformed/core-1.1.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/sreenimannem/Downloads/ExoPlayerDemo/extensions/workmanager/buildout/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/sreenimannem/.gradle/caches/transforms-3/0145c3980ae736515740237be1da73ed/transformed/core-1.1.0/res/drawable/notification_bg.xml"
+    }
+]
